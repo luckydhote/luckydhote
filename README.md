@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Lokesh Dhote from Banglore <br>- 📚 I'm currently learning Data Science and Analysis <br>- ⚡ In my free time I am used to learn AI and ML Algorithm </p>
+<p align="left">I'm Lokesh Dhote from Bangalore <br>- 📚 I'm currently learning Data Science and Analysis <br>- ⚡ In my free time I am used to learn AI and ML Algorithm </p>
 
 ###
 
